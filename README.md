@@ -1,1 +1,1 @@
-registration form using java swing
+STUDENT REGISTRATION FORM
